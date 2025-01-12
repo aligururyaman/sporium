@@ -64,11 +64,18 @@ export function RegisterForm({ className, ...props }) {
     } catch (error) {
       toast.dismiss(loadingToastId);
       console.error("Kayıt hatası:", error);
-      toast.error(
-        error.code === 'auth/email-already-in-use'
-          ? "Bu e-posta adresi zaten kullanımda"
-          : "Kayıt sırasında bir hata oluştu: " + error.message
-      );
+
+      // Firebase hata kodlarına göre özelleştirilmiş mesajlar
+      const errorMessages = {
+        'auth/email-already-in-use': 'Bu e-posta adresi zaten kullanımda',
+        'auth/invalid-email': 'Geçersiz e-posta adresi',
+        'auth/operation-not-allowed': 'Kayıt işlemi şu anda yapılamıyor',
+        'auth/weak-password': 'Şifre en az 6 karakter olmalıdır',
+        'auth/network-request-failed': 'Ağ bağlantısı hatası'
+      };
+
+      const errorMessage = errorMessages[error.code] || 'Kayıt sırasında bir hata oluştu: ' + error.message;
+      toast.error(errorMessage);
     }
   };
 
