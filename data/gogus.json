@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Hammer curls",
+    "img": "https://gymgeek.com/wp-content/uploads/2023/10/standing-hammer-curls.png"
+  },
+  {
+    "id": 2,
+    "name": "Bicep Curls",
+    "img": "https://gymgeek.com/wp-content/uploads/2023/10/dumbbell-bicep-curl.png"
+  },
+  {
+    "id": 3,
+    "name": "Barbell Squat",
+    "img": "https://gymgeek.com/wp-content/uploads/2024/02/barbell-squats-square.png"
+  }
+]

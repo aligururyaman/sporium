@@ -1,0 +1,30 @@
+{
+  "title": "Bacak Egzersizleri",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Barbell Squat",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/barbell-squats-square.png"
+    },
+    {
+      "id": 2,
+      "name": "Leg Press",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/10/leg-press-how-to.png"
+    },
+    {
+      "id": 3,
+      "name": "Body Weight Squats ",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/bodyweight-squat.png"
+    },
+    {
+      "id": 4,
+      "name": "Leg Extensions",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/machine-leg-extensions.png"
+    },
+    {
+      "id": 5,
+      "name": "Calf Raises",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/10/calf-raises.png"
+    }
+  ]
+}
