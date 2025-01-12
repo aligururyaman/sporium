@@ -117,7 +117,7 @@ export default function Home() {
         {isLoggedIn ? (
           <div className='flex items-center justify-center p-2'>
             <h1 className="text-gray-500">
-              {userInfo && capitalizeWords(userInfo.name)}
+              {userInfo && (userInfo.searchId)}
               {userInfo?.role === 'admin' && (
                 <Button
                   className="text-gray-500 ml-2"
