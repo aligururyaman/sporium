@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Spor Eldiveni",
+    "img": "https://images.unsplash.com/photo-1557127972-1c446ea89ea5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Ağırlık kaldırırken elleri korumak ve daha iyi tutuş sağlamak için kullanılır."
+  },
+  {
+    "name": "Bilek Destek Bandı",
+    "img": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Ağır kaldırma sırasında bilekleri desteklemek ve sakatlık riskini azaltmak için tasarlanmıştır."
+  },
+  {
+    "name": "Kemer (Weightlifting Belt)",
+    "img": "https://images.unsplash.com/photo-1586232710888-675866d80ad2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Ağır kaldırma sırasında bel ve omurgayı desteklemek için kullanılır."
+  },
+  {
+    "name": "Dirsek Bandı",
+    "img": "https://images.unsplash.com/photo-1533560777802-046814bc297c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Dirsek eklemini destekler ve ağır kaldırma sırasında eklem stresini azaltır."
+  },
+  {
+    "name": "Diz Bandı (Knee Wraps)",
+    "img": "https://images.unsplash.com/photo-1533560904424-a0c61dc306fc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Squat ve diğer ağır kaldırma hareketleri sırasında dizleri desteklemek için kullanılır."
+  },
+  {
+    "name": "Fitness Matı",
+    "img": "https://images.unsplash.com/photo-1522844831948-ec9400db7659?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Zemin üzerinde yapılan egzersizlerde konfor ve destek sağlar."
+  },
+  {
+    "name": "Spor Havlusu",
+    "img": "https://images.unsplash.com/photo-1471880504582-cf7e63045303?q=80&w=1924&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Egzersiz sırasında teri temizlemek ve hijyen sağlamak için kullanılır."
+  },
+  {
+    "name": "Shaker Bottle",
+    "img": "https://images.unsplash.com/photo-1596588357871-10a1d24fc0d3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Protein tozları ve diğer spor içeceklerini karıştırmak için kullanılır."
+  },
+  {
+    "name": "Atlama İpi",
+    "img": "https://images.unsplash.com/photo-1520334298038-4182dac472e8?q=80&w=1966&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Kardiyo ve koordinasyon geliştirme antrenmanlarında kullanılır."
+  },
+  {
+    "name": "Spor Çantası",
+    "img": "https://images.unsplash.com/photo-1692506530242-c12d6c3ae2e2?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Tüm spor ekipmanlarını taşıyabileceğiniz geniş bir çanta."
+  },
+  {
+    "name": "Direnç Bandı",
+    "img": "https://images.unsplash.com/photo-1584827386916-b5351d3ba34b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Kuvvet antrenmanları ve esneklik çalışmaları için kullanılır."
+  },
+  {
+    "name": "Su Şişesi",
+    "img": "https://images.unsplash.com/photo-1638183130424-873c491cca1b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Egzersiz sırasında hidrasyonu sağlamak için kullanılır."
+  }
+]

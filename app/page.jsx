@@ -155,7 +155,7 @@ export default function Home() {
             <p className="mt-2 text-gray-600">
               Sporium'a hoş geldiniz!
             </p>
-            <p className="mt-2 text-gray-400">Kalan kredi: </p>
+            <p className="mt-2 text-gray-400">Kalan Gün: {userInfo && userInfo.credit} Gün</p>
           </div>
 
           {/* Cards linkleri */}

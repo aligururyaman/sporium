@@ -306,7 +306,6 @@ export default function AdminPanel() {
 
   return (
     <div className="p-8 flex flex-col items-center justify-center">
-      <Toaster richColors position="top-right" />
 
       <Button
         variant="outline"

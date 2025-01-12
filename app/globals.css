@@ -41,6 +41,9 @@ body {
     --sidebar-accent-foreground: 240 5.9% 10%;
     --sidebar-border: 220 13% 91%;
     --sidebar-ring: 217.2 91.2% 59.8%;
+    --font-raleway: var(--font-raleway);
+    --font-geist-sans: var(--font-geist-sans);
+    --font-geist-mono: var(--font-geist-mono);
   }
   .dark {
     --background: 20 14.3% 4.1%;
@@ -85,4 +88,13 @@ body {
   body {
     @apply bg-background text-foreground;
   }
+}
+
+/* Font kullanımı örneği */
+.font-sans {
+  font-family: var(--font-raleway), var(--font-geist-sans), sans-serif;
+}
+
+.font-mono {
+  font-family: var(--font-geist-mono), monospace;
 }

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Protein Tozu",
+    "img": "https://images.unsplash.com/photo-1704650311190-7eeb9c4f6e11?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Kas gelişimini destekleyen ve kas onarımını hızlandıran bir besin takviyesi."
+  },
+  {
+    "name": "BCAA (Dallı Zincirli Amino Asitler)",
+    "img": "https://images.unsplash.com/photo-1709976142749-4a83767c4228?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Egzersiz sırasında enerji seviyelerini artırır ve kas yıkımını azaltır."
+  },
+  {
+    "name": "Kreatin Monohidrat",
+    "img": "https://images.unsplash.com/photo-1693996045435-af7c48b9cafb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Güç artışını destekler ve kasların yüksek yoğunluklu antrenmanlarda daha iyi performans göstermesini sağlar."
+  },
+  {
+    "name": "Omega-3 Balık Yağı",
+    "img": "https://images.unsplash.com/photo-1693996047034-311ab7656691?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Kalp sağlığını destekleyen, inflamasyonu azaltan ve genel sağlık için faydalı bir yağ asidi takviyesi."
+  },
+  {
+    "name": "Glutamin",
+    "img": "https://images.unsplash.com/photo-1693996045369-781799bbaea0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Bağışıklık sistemini destekler ve kasların toparlanma süresini kısaltır."
+  },
+  {
+    "name": "Pre-Workout",
+    "img": "https://images.unsplash.com/photo-1693996046744-d7d7434bc777?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Antrenman öncesi enerji seviyesini artıran ve odaklanmayı destekleyen bir takviye."
+  },
+  {
+    "name": "L-Karnitin",
+    "img": "https://images.unsplash.com/photo-1693996046865-19217d179161?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Yağ yakımını hızlandırır ve enerji üretimine katkıda bulunur."
+  },
+  {
+    "name": "Multivitamin",
+    "img": "https://images.unsplash.com/photo-1585830812416-a6c86bb14576?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Günlük vitamin ve mineral ihtiyacını karşılamaya yardımcı olur."
+  },
+  {
+    "name": "ZMA (Çinko, Magnezyum, B6 Vitamini)",
+    "img": "https://images.unsplash.com/photo-1704650311140-aba27da8623d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Kas iyileşmesini destekler ve uyku kalitesini artırır."
+  },
+  {
+    "name": "Beta-Alanin",
+    "img": "https://images.unsplash.com/photo-1704650311263-4563a029bd9e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Dayanıklılığı artırır ve yorgunluk hissini geciktirir."
+  }
+]
