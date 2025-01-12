@@ -225,7 +225,7 @@ export default function Home() {
                       className="object-cover"
                       priority={index === 0}
                     />
-                    <div className="absolute inset-0 bg-black bg-opacity-65 flex items-center justify-center rounded-2xl">
+                    <div className="absolute inset-0 bg-black bg-opacity-65 flex items-center justify-center ">
                       <h2 className="text-white hidden md:flex md:text-4xl font-bold">
                         {mesaj[index]}
                       </h2>
