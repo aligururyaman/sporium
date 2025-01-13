@@ -1,17 +1,75 @@
-[
-  {
-    "id": 1,
-    "name": "Hammer curls",
-    "img": "https://gymgeek.com/wp-content/uploads/2023/10/standing-hammer-curls.png"
-  },
-  {
-    "id": 2,
-    "name": "Bicep Curls",
-    "img": "https://gymgeek.com/wp-content/uploads/2023/10/dumbbell-bicep-curl.png"
-  },
-  {
-    "id": 3,
-    "name": "Barbell Squat",
-    "img": "https://gymgeek.com/wp-content/uploads/2024/02/barbell-squats-square.png"
-  }
-]
+{
+  "title": "Göğüs Egzersizleri",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Bench Press",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/bench-press-square.png"
+    },
+    {
+      "id": 2,
+      "name": "Incline Bench Press",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/incline-bench-press-square.png"
+    },
+    {
+      "id": 3,
+      "name": "Dumbbell Flyes",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/flat-bench-dumbbell-chest-fly.png"
+    },
+    {
+      "id": 4,
+      "name": "Push-Ups",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/03/military-push-ups.png"
+    },
+    {
+      "id": 5,
+      "name": "Incline Dumbbell Press",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/11/incline-dumbbell-press.png"
+    },
+    {
+      "id": 6,
+      "name": "Cable Crossovers",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/11/cable-crossover.png"
+    },
+    {
+      "id": 7,
+      "name": "Decline Bench Press",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/decline-bench-press-square.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Chest Dips",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/01/chest-dips-1.png"
+    },
+    {
+      "id": 9,
+      "name": "Incline Push-Ups",
+      "img": "https://static.vecteezy.com/system/resources/previews/008/635/617/non_2x/woman-doing-incline-push-ups-exercise-flat-illustration-isolated-on-white-background-vector.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Machine Chest Press",
+      "img": "https://thumbs.dreamstime.com/b/art-illustration-202048077.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Pec Deck Machine",
+      "img": "https://strengthwarehouseusa.com/cdn/shop/products/Muscle_D_Fitness_MDD-1003_Dual_Function_Line_Pec_Deck_Rear_Delt_Combo_Front_View_700x700.jpg?v=1564367828"
+    },
+    {
+      "id": 12,
+      "name": "Close-Grip Bench Press",
+      "img": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Close-Grip-Bench-Press_28c01bfb-504d-43a6-8264-bd2101d317b9_600x600.png?v=1612137028"
+    },
+    {
+      "id": 13,
+      "name": "Svend Press",
+      "img": "https://liftmanual.com/wp-content/uploads/2023/04/weighted-svend-press.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Pullover",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/dumbbell-pullovers.png"
+    }
+  ]
+}

@@ -1,32 +1,65 @@
-[
-  {
-    "id": 1,
-    "name": "Hammer curls",
-    "img": "https://gymgeek.com/wp-content/uploads/2023/10/standing-hammer-curls.png"
-  },
-  {
-    "id": 2,
-    "name": "Bicep Curls",
-    "img": "https://gymgeek.com/wp-content/uploads/2023/10/dumbbell-bicep-curl.png"
-  },
-  {
-    "id": 3,
-    "name": "Tricep Pushdowns",
-    "img": "https://gymgeek.com/wp-content/uploads/2024/02/straight-bar-tricep-pushdown.png"
-  },
-  {
-    "id": 4,
-    "name": "Reverse Tricep Pushdowns",
-    "img": "https://gymgeek.com/wp-content/uploads/2024/02/reverse-grip-tricep-extension.png"
-  },
-  {
-    "id": 5,
-    "name": "Rope Tricep Pushdowns",
-    "img": "https://gymgeek.com/wp-content/uploads/2023/11/tricep-rope-pushdown.png"
-  },
-  {
-    "id": 6,
-    "name": "Sinle Arm Tricep Pushdowns",
-    "img": "https://gymgeek.com/wp-content/uploads/2024/02/single-arm-tricep-pushdown.png"
-  }
-]
+{
+  "title": "Kol Egzersizleri",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Barbell Bicep Curl",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/10/dumbbell-bicep-curl.png"
+    },
+    {
+      "id": 2,
+      "name": "Dumbbell Hammer Curl",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/10/seated-hammer-curls.png"
+    },
+    {
+      "id": 3,
+      "name": "Tricep Dips",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/feet-elevated-tricep-dips.png"
+    },
+    {
+      "id": 5,
+      "name": "Concentration Curl",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/10/concentration-curls.png"
+    },
+    {
+      "id": 6,
+      "name": "Overhead Tricep Extension",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/10/overhead-tricep-extension.png"
+    },
+    {
+      "id": 7,
+      "name": "Cable Bicep Curl",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/10/cable-hammer-curls.png"
+    },
+    {
+      "id": 8,
+      "name": "Tricep Pushdown",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/straight-bar-tricep-pushdown.png"
+    },
+    {
+      "id": 9,
+      "name": "Incline Dumbbell Curl",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/10/incline-dumbbell-curl.png"
+    },
+    {
+      "id": 10,
+      "name": "Skull Crushers",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/skull-crushers.png"
+    },
+    {
+      "id": 12,
+      "name": "Reverse Grip Tricep Pushdown",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/reverse-grip-tricep-extension.png"
+    },
+    {
+      "id": 13,
+      "name": "Spider Curl",
+      "img": "https://www.gofitnessplan.com/images/exercises/female/biceps-spider-curl-incline-bench.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Lying Dumbbell Tricep Extension",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/10/lying-dumbbell-tricep-extension.png"
+    }
+  ]
+}

@@ -13,7 +13,7 @@
     },
     {
       "id": 3,
-      "name": "Body Weight Squats ",
+      "name": "Body Weight Squats",
       "img": "https://gymgeek.com/wp-content/uploads/2024/02/bodyweight-squat.png"
     },
     {
@@ -25,6 +25,51 @@
       "id": 5,
       "name": "Calf Raises",
       "img": "https://gymgeek.com/wp-content/uploads/2023/10/calf-raises.png"
+    },
+    {
+      "id": 6,
+      "name": "Romanian Deadlift",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/10/romanian-deadlift.png"
+    },
+    {
+      "id": 7,
+      "name": "Walking Lunges",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/walking-lunges.png"
+    },
+    {
+      "id": 8,
+      "name": "Bulgarian Split Squat",
+      "img": "https://www.gofitnessplan.com/images/exercises/female/bulgarian-split-squat.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Step-Ups",
+      "img": "https://www.gofitnessplan.com/images/exercises/female/step-up-lunge.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Hamstring Curls",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/hamstring-curls.png"
+    },
+    {
+      "id": 11,
+      "name": "Sumo Deadlift",
+      "img": "https://www.gofitnessplan.com/images/exercises/female/kettlebell-sumo-deadlift.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Hip Thrusts",
+      "img": "https://cdn.shopify.com/s/files/1/2350/9323/files/Barbell_Hip_Thrust_480x480.jpg?v=1676877503"
+    },
+    {
+      "id": 13,
+      "name": "Side Lunges",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/side-lunge-to-curtsy-lunge.png"
+    },
+    {
+      "id": 14,
+      "name": "Glute Bridges",
+      "img": "https://www.shutterstock.com/image-vector/man-doing-hip-raises-butt-600nw-1989504368.jpg"
     }
   ]
 }

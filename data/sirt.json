@@ -1,0 +1,66 @@
+{
+  "title": "Sırt Egzersizleri",
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Pull-Ups",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/pull-ups-square.png"
+    },
+    {
+      "id": 2,
+      "name": "Lat Pulldown",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/lat-pulldowns-square.png"
+    },
+    {
+      "id": 3,
+      "name": "Barbell Row",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/11/bent-over-rows-diagram.png"
+    },
+    {
+      "id": 4,
+      "name": "Dumbbell Row",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/10/single-arm-dumbbell-rows.png"
+    },
+    {
+      "id": 5,
+      "name": "Deadlift",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/10/traditional-deadlift.png"
+    },
+    {
+      "id": 6,
+      "name": "Seated Cable Row",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/10/seated-cable-rows.png"
+    },
+    {
+      "id": 7,
+      "name": "Chin-Ups",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/chin-ups-square.png"
+    },
+    {
+      "id": 8,
+      "name": "T-Bar Row",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/11/t-bar-row.png"
+    },
+    {
+      "id": 9,
+      "name": "Face Pulls",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/11/cable-face-pulls.png"
+    },
+    {
+      "id": 10,
+      "name": "Bent-Over Dumbbell Fly",
+      "img": "https://gymgeek.com/wp-content/uploads/2023/11/rear-delt-flyes.png"
+    },
+
+    {
+      "id": 13,
+      "name": "Inverted Rows",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/inverted-rows-square.png"
+    },
+    {
+      "id": 14,
+      "name": "Wide-Grip Lat Pulldown",
+      "img": "https://gymgeek.com/wp-content/uploads/2024/02/wide-grip-lat-pulldown.png"
+    }
+  ]
+}

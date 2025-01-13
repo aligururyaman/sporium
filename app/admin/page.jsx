@@ -29,6 +29,7 @@ import { SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/compone
 import bacak from "@/data/bacak.json"
 import gogus from "@/data/gogus.json"
 import kol from "@/data/kol.json"
+import sirt from "@/data/sirt.json"
 import { toast, Toaster } from 'sonner'
 import { onAuthStateChanged } from 'firebase/auth'
 
@@ -289,8 +290,9 @@ export default function AdminPanel() {
 
   const programs = [
     { name: "Bacak", exercises: bacak.exercises },
-    { name: "Göğüs", exercises: gogus },
-    { name: "Kol", exercises: kol }
+    { name: "Göğüs", exercises: gogus.exercises },
+    { name: "Kol", exercises: kol.exercises },
+    { name: "Sırt", exercises: sirt.exercises }
   ];
 
   if (loading) {

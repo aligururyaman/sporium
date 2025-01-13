@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { use, useEffect, useState } from 'react'
 import { onAuthStateChanged, signOut } from 'firebase/auth'
 import { auth, db } from '@/utils/firebase'
 import { useRouter } from 'next/navigation'
@@ -115,8 +115,10 @@ export default function Home() {
     <div className="flex min-h-screen flex-col items-center  p-8">
       <div className='flex mb-10  justify-end h-6 bg-gray-100 w-full rounded-xl'>
         {isLoggedIn ? (
+
           <div className='flex items-center justify-center p-2'>
             <h1 className="text-gray-500">
+              {userInfo && capitalizeWords(userInfo.name)}{"  | "}
               {userInfo && (userInfo.searchId)}
               {userInfo?.role === 'admin' && (
                 <Button
@@ -130,6 +132,7 @@ export default function Home() {
               <Button className="text-gray-500" variant="link" onClick={handleLogout}>Çıkış</Button>
             </h1>
           </div>
+
         ) : (
           <div onClick={() => router.push('/login')} className='cursor-pointer flex items-center justify-center p-2' >
             <h1 className="text-sm text-gray-500">
@@ -148,15 +151,7 @@ export default function Home() {
       </div>
       {isLoggedIn ? (
         <>
-          <div className='flex flex-col items-center  p-8'>
-            <h1 className="text-3xl font-bold">
-              Merhaba, {userInfo && capitalizeWords(userInfo.name)}
-            </h1>
-            <p className="mt-2 text-gray-600">
-              Sporium'a hoş geldiniz!
-            </p>
-            <p className="mt-2 text-gray-400">Kalan Gün: {userInfo && userInfo.credit} Gün</p>
-          </div>
+
 
           {/* Cards linkleri */}
           <div className="flex flex-col md:flex-row w-full">
